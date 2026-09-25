@@ -1,9 +1,9 @@
-# E-mail Nativa: Oferta Relâmpago
+# E-mail Nativa: Sextou com Oferta Relâmpago
 
-E-mail marketing da Nativa Ecocosméticos (15% no Pix em 4 kits).
+E-mail marketing da Nativa Ecocosméticos (15% no Pix em qualquer um dos kits).
 
-- **Assunto:** Oferta Relâmpago: 15% no Pix em 4 kits Nativa
-- **Pré-cabeçalho:** Oi! Pra fechar a semana, um mimo pros seus cachos: os kits mais queridos da Nativa entraram na nossa oferta relâmpago.
+- **Assunto:** Sextou com oferta relâmpago: 15% no Pix nos kits Nativa
+- **Pré-cabeçalho:** Oi! Sextou com oferta relâmpago: 15% de desconto no Pix em qualquer um dos kits Nativa.
 - **Link do botão:** https://www.nativaecocosmeticos.com.br/presentesnativa
 
 ## Como usar
