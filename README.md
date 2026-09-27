@@ -6,6 +6,14 @@ E-mail marketing da Nativa Ecocosméticos (15% no Pix em qualquer um dos kits).
 - **Pré-cabeçalho:** Oi! Sextou com oferta relâmpago: 15% de desconto no Pix em qualquer um dos kits Nativa.
 - **Link do botão:** https://www.nativaecocosmeticos.com.br/presentesnativa
 
+## Variação /3: Último dia (domingo)
+
+Arquivo: `3/index.html` (na Vercel, abre em `/3`).
+
+- **Assunto:** Último dia: 15% no Pix nos kits Nativa acaba hoje
+- **Pré-cabeçalho:** Oi! Hoje é o último dia da oferta relâmpago: 15% de desconto no Pix em qualquer um dos kits Nativa.
+- **Link do botão:** https://www.nativaecocosmeticos.com.br/presentesnativa
+
 ## Como usar
 
 Copie o conteúdo de `index.html` e cole no editor HTML da ferramenta de disparo.
